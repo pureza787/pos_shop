@@ -80,7 +80,7 @@ src/firebase.js
 3️⃣ รันโปรเจกต์ (Run Local)
 พิมพ์คำสั่ง:
 
-diff
+
 คัดลอกโค้ด
 + npm run dev
 เว็บจะเปิดที่
@@ -90,15 +90,15 @@ diff
 เพื่อให้ใช้งานได้บนมือถือโดยไม่ต้องเปิดคอม แนะนำให้ใช้ Vercel
 
 1️⃣ ติดตั้ง Vercel CLI
-diff
+
 คัดลอกโค้ด
 + npm i -g vercel
 2️⃣ ล็อกอิน
-diff
+
 คัดลอกโค้ด
 + npx vercel login
 3️⃣ อัปโหลดขึ้น Server (Deploy)
-diff
+
 คัดลอกโค้ด
 + npx vercel --prod
 (กด Enter ใช้ค่า default ทุกข้อ)
@@ -111,13 +111,13 @@ arduino
 https://my-shop.vercel.app
 ให้นำไปต่อด้วย path ตามบทบาทผู้ใช้งาน:
 
-diff
+
 คัดลอกโค้ด
 + ลูกค้า: .../#/?table=1        ← เปลี่ยนเลข 1 เป็นเลขโต๊ะ  
 + ห้องครัว: .../#/kitchen       ← สำหรับจอครัว  
 + แอดมิน:   .../#/admin         ← สำหรับเจ้าของร้าน  
 จากนั้นนำลิงก์ลูกค้าไปสร้าง QR Code สำหรับให้ลูกค้าสแกนสั่งอาหาร
 
-❤️ Enjoy Coding!
+## ❤️ Enjoy Coding!
 yaml
-คัดลอกโค้ด
+
